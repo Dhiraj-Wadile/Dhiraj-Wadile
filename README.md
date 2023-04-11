@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif)](https://dhiraj-wadile.io)
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/03/13/40/45/1000_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)](https://dhiraj-wadile.io)
 <h1 align="center">Hi 👋, I'm Dhiraj Wadile</h1>
 <h3 align="center">Web Developer || App Developer || Entrepreneur</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
