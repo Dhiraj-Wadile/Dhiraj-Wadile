@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://dhiraj-wadile.io)
+[![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif)](https://dhiraj-wadile.io)
 <h1 align="center">Hi 👋, I'm Dhiraj Wadile</h1>
 <h3 align="center">Web Developer || App Developer || Entrepreneur</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter,MERN Stack etc.**
 
-- 👯 I complelted with [BikePooling](https://github.com/Dhiraj-Wadile/Dhiraj-Wadile-Project_Based_Learning-FE)
+- 👯 I completed with [BikePooling](https://github.com/Dhiraj-Wadile/Dhiraj-Wadile-Project_Based_Learning-FE)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhiraj-Wadile/Dhiraj-Wadile-Project_Based_Learning-FE](https://github.com/Dhiraj-Wadile/Dhiraj-Wadile-Project_Based_Learning-FE)
 
