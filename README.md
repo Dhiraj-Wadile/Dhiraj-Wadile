@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter,MERN Stack etc.**
 
-- 👯 I completed with [BikePooling](https://github.com/Dhiraj-Wadile/Dhiraj-Wadile-Project_Based_Learning-FE)
+- 😎 I completed with [BikePooling](https://github.com/Dhiraj-Wadile/Dhiraj-Wadile-Project_Based_Learning-FE)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhiraj-Wadile/](https://github.com/Dhiraj-Wadile/)
 
