@@ -1,30 +1,30 @@
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/03/13/40/45/1000_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)](https://dhiraj-wadile.io)
 <h1 align="center">Hi 👋, I'm Dhiraj Wadile</h1>
-<h3 align="center">Web Developer || Content Writer || Entrepreneur</h3>
+<h3 align="center">Full Stack Developer || Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj-wadile&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj-wadile" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **TERMWISE**
+- 🔭 I’m currently working on **Wonderize**
 
-- 🌱 I’m currently learning **Flutter,MERN Stack etc.**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 😎 I completed with [BikePooling,SplitBuddie](https://github.com/Dhiraj-Wadile/)
+- 😎 I completed with [EaseE-Learning,WebEase and ConnectMe](https://github.com/Dhiraj-Wadile/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhiraj-Wadile/](https://github.com/Dhiraj-Wadile/)
 
-- 📫 How to reach me **wadiledhiraj5@gmail.com**
+- 📫 How to reach me **dmwadile@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhiraj wadile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiraj wadile" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/classical_dmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="classical_dmw" height="30" width="40" /></a>
 <a href="https://instagram.com/dhiraj_wadile_55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhiraj_wadile_55" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dadaclassical" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dadaclassical" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dadamodern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dadamodern" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/classical_dmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="classical_dmw" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dhiraj_55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dadaclassical" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/dhiraj_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dadamodern" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dhiraj_5530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="classical_dmw" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@dhiraj_wadile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dhiraj_wadile" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dmwad15cf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dmwad15cf" height="30" width="40" /></a>
 </p>
