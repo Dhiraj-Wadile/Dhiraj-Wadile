@@ -1,17 +1,15 @@
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/03/13/40/45/1000_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)](https://dhiraj-wadile.io)
 <h1 align="center">Hi 👋, I'm Dhiraj Wadile</h1>
-<h3 align="center">Full Stack Developer || Learner</h3>
+<h3 align="center">Full Stack Developer || Learner || Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj-wadile&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj-wadile" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Wonderize**
+- 🔭 I’m currently working on **OCR-Application**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 😎 I completed with [EaseE-Learning,WebEase and ConnectMe](https://github.com/Dhiraj-Wadile/)
+- 🌱 I’m currently learning **Full Stack Web Development and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhiraj-Wadile/](https://github.com/Dhiraj-Wadile/)
 
