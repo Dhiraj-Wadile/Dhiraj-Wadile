@@ -37,154 +37,105 @@
 
 <br/>
 
-```python
-class DhirajWadile:
-    """
-    Full Stack Software Engineer | Systems Architect | AI Engineer
-    Building scalable systems. Solving real engineering problems.
-    """
-    
-    def __init__(self):
-        # Core Identity
-        self.name = "Dhiraj Wadile"
-        self.role = "Full Stack Software Engineer"
-        self.location = "India"
-        self.email = "dmwadile@gmail.com"
-        self.website = "https://dhiraj-wadile.io"
-        
-        # Professional Focus
-        self.domain = "Backend Engineering & AI Systems"
-        self.specialization = [
-            "Distributed Systems Architecture",
-            "Scalable Backend Engineering", 
-            "AI/LLM Application Development",
-            "Cloud-Native Solutions"
-        ]
-        
-        # Engineering DNA
-        self.philosophy = {
-            "code": "Clean, maintainable, scalable — always",
-            "design": "Architecture-first, performance-always",
-            "scale": "Build for 10x, plan for 100x",
-            "learn": "Every day is a chance to get better"
-        }
-        
-        # Technical Arsenal
-        self.languages = {
-            "primary": ["C#", "Java", "Python", "TypeScript"],
-            "secondary": ["JavaScript", "SQL", "HTML5", "CSS3"],
-            "scripting": ["Bash", "PowerShell"]
-        }
-        
-        self.backend = {
-            "frameworks": [".NET Core", "ASP.NET", "Spring Boot", "Node.js"],
-            "patterns": ["Microservices", "REST APIs", "Event-Driven", "CQRS"],
-            "messaging": ["RabbitMQ", "Kafka", "Azure Service Bus"]
-        }
-        
-        self.frontend = {
-            "frameworks": ["Angular", "Next.js", "React"],
-            "styling": ["Bootstrap", "Tailwind CSS", "Material UI"],
-            "state": ["NgRx", "Redux", "Context API"]
-        }
-        
-        self.ai_ml = {
-            "llms": ["OpenAI GPT", "LangChain", "Hugging Face"],
-            "frameworks": ["TensorFlow", "scikit-learn", "PyTorch"],
-            "applications": ["RAG Systems", "AI Agents", "NLP", "Computer Vision"]
-        }
-        
-        self.cloud = {
-            "providers": ["AWS", "Azure"],
-            "services": ["EC2", "S3", "Lambda", "Azure Functions", "AKS"],
-            "devops": ["Docker", "Kubernetes", "Jenkins", "GitHub Actions"]
-        }
-        
-        self.databases = {
-            "relational": ["MySQL", "PostgreSQL", "SQL Server"],
-            "nosql": ["MongoDB", "Redis", "DynamoDB"],
-            "search": ["Elasticsearch"]
-        }
-        
-        # Current Missions
-        self.current_projects = {
-            "vmail": "Enterprise email platform with AI-powered features",
-            "ai_agents": "Multi-agent orchestration system for task automation",
-            "microservices": "Scalable backend architecture with event sourcing",
-            "cloud_native": "Cloud-first application with auto-scaling"
-        }
-        
-        # Growth Trajectory
-        self.learning = [
-            "Advanced Distributed Systems Patterns",
-            "LLM Fine-tuning & RAG Optimization",
-            "Performance Engineering & Profiling",
-            "System Design for High Availability",
-            "Infrastructure as Code (Terraform, Pulumi)"
-        ]
-        
-        # Impact Metrics
-        self.stats = {
-            "experience": "5+ years",
-            "repositories": "50+",
-            "leetcode_solved": "1500+",
-            "open_source_contributions": "Active",
-            "streak": "450+ days"
-        }
-        
-        # Professional Values
-        self.values = {
-            "integrity": "Write honest code, ship honest software",
-            "excellence": "Good enough is never enough",
-            "curiosity": "Never stop asking 'what if?'",
-            "collaboration": "Great software is built by great teams"
-        }
-    
-    def get_current_focus(self):
-        """What I'm working on right now"""
-        return {
-            "building": "Scalable microservices with .NET & Spring Boot",
-            "designing": "AI-powered automation pipelines",
-            "learning": "Advanced system design patterns",
-            "contributing": "Open source developer tools"
-        }
-    
-    def get_engineering_approach(self):
-        """How I approach software engineering"""
-        return [
-            "1. Understand the problem deeply before writing code",
-            "2. Design architecture with scalability in mind",
-            "3. Write clean, testable, maintainable code",
-            "4. Monitor, measure, and optimize continuously",
-            "5. Document decisions for future engineers"
-        ]
-    
-    def get_why_work_with_me(self):
-        """Why someone should collaborate with me"""
-        return {
-            "reliability": "I deliver what I promise, on time, every time",
-            "quality": "My code is clean, tested, and production-ready",
-            "communication": "I explain complex systems simply",
-            "growth": "I elevate the teams I work with",
-            "passion": "I genuinely love building great software"
-        }
-    
-    def __repr__(self):
-        return f"DhirajWadile(role='{self.role}', focus='{self.domain}', location='{self.location}')"
+<table>
+<tr>
+<td width="60%" valign="top">
 
+### **Dhiraj Wadile**
 
-# Initialize the engineer
-dhiraj = DhirajWadile()
-print(dhiraj)
+<br/>
+
+> *Full Stack Software Engineer | Systems Architect | AI Engineer*
+
+<br/>
+
+I build software that **scales**. Not just code — **systems that solve real problems**.
+
+With deep expertise in **backend engineering**, **distributed systems**, and **AI-powered applications**, I work across the entire technology stack to deliver products that perform, endure, and create value.
+
+<br/>
+
+### What I Do
+
+| Domain | Focus |
+|:-------|:------|
+| **Backend** | Building scalable microservices with **.NET**, **Java**, **Spring Boot** |
+| **Frontend** | Creating modern web apps with **Angular**, **Next.js**, **React** |
+| **AI/ML** | Developing **LLM-powered agents** and intelligent automation |
+| **Cloud** | Deploying cloud-native architectures on **AWS** & **Azure** |
+
+<br/>
+
+### How I Think
+
+```
+> I don't just write code. I solve engineering problems.
+> Every system I build is designed to scale, perform, and endure.
+> Architecture decisions are deliberate, not accidental.
+> Clean code is a professional responsibility.
 ```
 
 <br/>
 
 **Backend Engineer** who builds systems that scale. **AI Enthusiast** who creates intelligent solutions. **Full Stack Developer** who ships complete products.
 
-I work at the intersection of **distributed systems** and **artificial intelligence** — where engineering rigor meets product intuition. My code is clean, my architecture is deliberate, and my systems are built to last.
+I work at the intersection of **distributed systems** and **artificial intelligence** — where engineering rigor meets product intuition.
 
-> *"I don't just write code. I solve engineering problems with precision, consider trade-offs deliberately, and ship software that stands the test of scale and time."*
+</td>
+<td width="40%" valign="top">
+
+<div align="center">
+
+### My Engineering DNA
+
+<br/>
+
+```
+┌─────────────────────────────┐
+│  🎯 PROBLEM SOLVER          │
+│  I solve before I code      │
+├─────────────────────────────┤
+│  🏗️ ARCHITECT              │
+│  Design first, build second│
+├─────────────────────────────┤
+│  📈 SCALER                 │
+│  Build for 10x, plan 100x  │
+├─────────────────────────────┤
+│  🔬 LEARNER                │
+│  Never stop experimenting  │
+├─────────────────────────────┤
+│  🚀 BUILDER                │
+│  Ship fast, ship right     │
+└─────────────────────────────┘
+```
+
+<br/>
+
+### Current Focus
+
+```
+→ .NET & Java Backend Systems
+→ AI Agent Orchestration
+→ Distributed Architecture
+→ Cloud-Native Solutions
+```
+
+<br/>
+
+### Values
+
+```
+✓ Integrity — Honest code, honest software
+✓ Excellence — Good enough is never enough
+✓ Curiosity — Always ask "what if?"
+✓ Collaboration — Great teams build great software
+```
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
