@@ -209,35 +209,22 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 
 ### GitHub Analytics
 
-</div>
+<br/>
 
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/Dhiraj-Wadile?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Dhiraj-Wadile?label=Stars&style=social)
-![GitHub forks](https://img.shields.io/github/forks/Dhiraj-Wadile?label=Forks&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=green)
 
 <br/>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=blue)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=green)
-![GitHub languages](https://img.shields.io/github/languages/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=purple)
-
-</div>
+![GitHub last commit](https://img.shields.io/github/last-commit/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=purple)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=orange)
 
 <br/>
 
----
-
-<div align="center">
-
-### Contribution Graph
-
-</div>
-
-<div align="center">
-
-![Contribution Graph](https://img.shields.io/github/contributions/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=green)
+![Dhiraj's Leetcode](https://img.shields.io/badge/LeetCode-1500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Dhiraj's Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Dhiraj's Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
