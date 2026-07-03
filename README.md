@@ -214,7 +214,7 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhiraj-Wadile&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj-Wadile&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhiraj-Wadile&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&hide=contribs,issues&include_all_commits=true&count_private=true" />
 
 <br/>
 
@@ -238,7 +238,7 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj-Wadile&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" width="100%" />
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj-Wadile&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true)
 
 </div>
 
