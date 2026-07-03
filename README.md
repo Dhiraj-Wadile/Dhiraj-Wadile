@@ -213,16 +213,11 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhiraj-Wadile&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhiraj-Wadile&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&hide=contribs,issues&include_all_commits=true&count_private=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhiraj-Wadile&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj-Wadile&layout=compact&theme=radical&hide_border=true&langs_limit=8)
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj-Wadile&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_limit=8" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dhiraj-Wadile&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj-Wadile&theme=radical&hide_border=true)
 
 </div>
 
@@ -238,7 +233,7 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 
 <div align="center">
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj-Wadile&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj-Wadile&theme=redical&hide_border=true)
 
 </div>
 
