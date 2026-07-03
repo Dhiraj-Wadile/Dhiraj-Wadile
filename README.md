@@ -265,6 +265,37 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 
 <div align="center">
 
+### Laws of Software Development
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- If it works, don't touch it five minutes before deployment.
+- Every bug disappears when someone else comes to look at it.
+- One small change can somehow break the entire application.
+- The best code is the code you can still understand six months later.
+
+</td>
+<td width="50%" valign="top">
+
+- Reading error messages saves more time than guessing.
+- Coffee is a valid debugging dependency.
+- "It works on my machine." is not a deployment strategy.
+- CTRL + Z should exist in real life.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
 > *"First, solve the problem. Then, write the code."* — **John Johnson**
 
 <br/>
