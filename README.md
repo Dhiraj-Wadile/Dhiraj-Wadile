@@ -122,50 +122,74 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-<a href="https://github.com/Dhiraj-Wadile/VMAIL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=VMAIL&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
-</a>
+#### **VMAIL**
+> Email platform with Python backend
 
-</td>
-<td width="50%" align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Scalable-238636?style=flat)
 
-<a href="https://github.com/Dhiraj-Wadile/ConnectMe">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=ConnectMe&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
-</a>
+[View Project →](https://github.com/Dhiraj-Wadile/VMAIL)
 
 </td>
-</tr>
-<tr>
-<td width="50%" align="center">
+<td width="50%">
 
-<a href="https://github.com/Dhiraj-Wadile/ExplainEasy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=ExplainEasy&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
-</a>
+#### **ConnectMe**
+> Professional portfolio & contact platform
 
-</td>
-<td width="50%" align="center">
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-Modern-1f6feb?style=flat)
 
-<a href="https://github.com/Dhiraj-Wadile/WebEase-Scrapping">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=WebEase-Scrapping&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
-</a>
+[View Project →](https://github.com/Dhiraj-Wadile/ConnectMe)
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-<a href="https://github.com/Dhiraj-Wadile/Vehicle_Counting">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=Vehicle_Counting&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
-</a>
+#### **ExplainEasy**
+> Learning platform built with TypeScript
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Web](https://img.shields.io/badge/Web-App-0e75b6?style=flat)
+
+[View Project →](https://github.com/Dhiraj-Wadile/ExplainEasy)
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-<a href="https://github.com/Dhiraj-Wadile/Invenco-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=Invenco-AI&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
-</a>
+#### **WebEase-Scrapping**
+> Web scraping tool with JavaScript
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tool](https://img.shields.io/badge/Tool-Utility-f0883e?style=flat)
+
+[View Project →](https://github.com/Dhiraj-Wadile/WebEase-Scrapping)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### **Vehicle_Counting**
+> Computer vision with Python & ML
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML-AI-9b59b6?style=flat)
+
+[View Project →](https://github.com/Dhiraj-Wadile/Vehicle_Counting)
+
+</td>
+<td width="50%">
+
+#### **Invenco-AI**
+> AI-powered application
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![AI](https://img.shields.io/badge/AI-Intelligent-9b59b6?style=flat)
+
+[View Project →](https://github.com/Dhiraj-Wadile/Invenco-AI)
 
 </td>
 </tr>
