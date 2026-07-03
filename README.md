@@ -124,15 +124,15 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/Dhiraj-Wadile">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=vmail-app&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
+<a href="https://github.com/Dhiraj-Wadile/VMAIL">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=VMAIL&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
 </a>
 
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/Dhiraj-Wadile">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=ai-agent-platform&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
+<a href="https://github.com/Dhiraj-Wadile/ConnectMe">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=ConnectMe&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
 </a>
 
 </td>
@@ -140,15 +140,31 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/Dhiraj-Wadile">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=microservices-architecture&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
+<a href="https://github.com/Dhiraj-Wadile/ExplainEasy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=ExplainEasy&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
 </a>
 
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/Dhiraj-Wadile">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=cloud-native-app&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
+<a href="https://github.com/Dhiraj-Wadile/WebEase-Scrapping">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=WebEase-Scrapping&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/Dhiraj-Wadile/Vehicle_Counting">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=Vehicle_Counting&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://github.com/Dhiraj-Wadile/Invenco-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=Invenco-AI&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
 </a>
 
 </td>
@@ -160,7 +176,7 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 <div align="center">
 
 <a href="https://github.com/Dhiraj-Wadile?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
+<img src="https://img.shields.io/badge/View%20All%2026%20Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
 </a>
 
 </div>
@@ -229,6 +245,9 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 </a>
 <a href="https://leetcode.com/dhiraj_5530" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+<a href="https://connect-me-jet.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
