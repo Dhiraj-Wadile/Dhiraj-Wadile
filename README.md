@@ -118,11 +118,9 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 
 ### Featured Projects
 
-</div>
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 #### **VMAIL**
 > Email platform with Python backend
@@ -133,7 +131,7 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 [View Project →](https://github.com/Dhiraj-Wadile/VMAIL)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 #### **ConnectMe**
 > Professional portfolio & contact platform
@@ -146,7 +144,7 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 #### **ExplainEasy**
 > Learning platform built with TypeScript
@@ -157,7 +155,7 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 [View Project →](https://github.com/Dhiraj-Wadile/ExplainEasy)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 #### **WebEase-Scrapping**
 > Web scraping tool with JavaScript
@@ -170,7 +168,7 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 #### **Vehicle_Counting**
 > Computer vision with Python & ML
@@ -181,7 +179,7 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 [View Project →](https://github.com/Dhiraj-Wadile/Vehicle_Counting)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 #### **Invenco-AI**
 > AI-powered application
@@ -196,8 +194,6 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 </table>
 
 <br/>
-
-<div align="center">
 
 <a href="https://github.com/Dhiraj-Wadile?tab=repositories">
 <img src="https://img.shields.io/badge/View%20All%2026%20Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
