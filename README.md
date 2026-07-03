@@ -212,13 +212,14 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 <br/>
 
 ![GitHub followers](https://img.shields.io/github/followers/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=green)
+![GitHub stars](https://img.shields.io/github/stars/Dhiraj-Wadile/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=yellow)
+![GitHub watchers](https://img.shields.io/github/watchers/Dhiraj-Wadile/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=purple)
 
 <br/>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=purple)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=orange)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dhiraj-Wadile/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=green)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Dhiraj-Wadile/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=orange)
+![GitHub issues](https://img.shields.io/github/issues/Dhiraj-Wadile/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=red)
 
 <br/>
 
