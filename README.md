@@ -1,36 +1,739 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/03/13/40/45/1000_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)](https://dhiraj-wadile.io)
-<h1 align="center">Hi 👋, I'm Dhiraj Wadile</h1>
-<h3 align="center">Full Stack Developer || Learner || Engineer</h3>
+<div align="center">
+
+<!-- Premium Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:79c0ff&height=280&section=header&text=Dhiraj%20Wadile&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20Systems%20Architect%20%7C%20AI%20Engineer&descSize=20&descAlignY=60&animation=twinkling&border=false" width="100%"/>
+
+<br/>
+
+<!-- Animated Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Building+Scalable+Backend+Systems;Crafting+AI-Powered+Solutions;Engineering+Clean+Architecture;Always+Learning.+Always+Building." alt="Typing SVG" />
+
+<br/>
+
+<!-- Professional Status Badges -->
+<img src="https://komarev.com/ghpvc/?username=Dhiraj-Wadile&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=238636" alt="Open to Work" />
+<img src="https://img.shields.io/badge/AVAILABILITY-Freelance-0d1117?style=for-the-badge&logo=calendar&logoColor=f0883e&labelColor=0d1117&color=f0883e" alt="Freelance" />
+
+<br/>
+
+<!-- Tech Badges -->
+<img src="https://img.shields.io/badge/.NET-Expert-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-AI/ML-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Angular-Expert-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj-wadile&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj-wadile" /> </p>
+## About Me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on **VMAIL Application**
+```python
+class DhirajWadile:
+    """
+    Full Stack Software Engineer | Systems Architect | AI Engineer
+    Building scalable systems. Solving real engineering problems.
+    """
+    
+    def __init__(self):
+        # Core Identity
+        self.name = "Dhiraj Wadile"
+        self.role = "Full Stack Software Engineer"
+        self.location = "India"
+        self.email = "dmwadile@gmail.com"
+        self.website = "https://dhiraj-wadile.io"
+        
+        # Professional Focus
+        self.domain = "Backend Engineering & AI Systems"
+        self.specialization = [
+            "Distributed Systems Architecture",
+            "Scalable Backend Engineering", 
+            "AI/LLM Application Development",
+            "Cloud-Native Solutions"
+        ]
+        
+        # Engineering DNA
+        self.philosophy = {
+            "code": "Clean, maintainable, scalable — always",
+            "design": "Architecture-first, performance-always",
+            "scale": "Build for 10x, plan for 100x",
+            "learn": "Every day is a chance to get better"
+        }
+        
+        # Technical Arsenal
+        self.languages = {
+            "primary": ["C#", "Java", "Python", "TypeScript"],
+            "secondary": ["JavaScript", "SQL", "HTML5", "CSS3"],
+            "scripting": ["Bash", "PowerShell"]
+        }
+        
+        self.backend = {
+            "frameworks": [".NET Core", "ASP.NET", "Spring Boot", "Node.js"],
+            "patterns": ["Microservices", "REST APIs", "Event-Driven", "CQRS"],
+            "messaging": ["RabbitMQ", "Kafka", "Azure Service Bus"]
+        }
+        
+        self.frontend = {
+            "frameworks": ["Angular", "Next.js", "React"],
+            "styling": ["Bootstrap", "Tailwind CSS", "Material UI"],
+            "state": ["NgRx", "Redux", "Context API"]
+        }
+        
+        self.ai_ml = {
+            "llms": ["OpenAI GPT", "LangChain", "Hugging Face"],
+            "frameworks": ["TensorFlow", "scikit-learn", "PyTorch"],
+            "applications": ["RAG Systems", "AI Agents", "NLP", "Computer Vision"]
+        }
+        
+        self.cloud = {
+            "providers": ["AWS", "Azure"],
+            "services": ["EC2", "S3", "Lambda", "Azure Functions", "AKS"],
+            "devops": ["Docker", "Kubernetes", "Jenkins", "GitHub Actions"]
+        }
+        
+        self.databases = {
+            "relational": ["MySQL", "PostgreSQL", "SQL Server"],
+            "nosql": ["MongoDB", "Redis", "DynamoDB"],
+            "search": ["Elasticsearch"]
+        }
+        
+        # Current Missions
+        self.current_projects = {
+            "vmail": "Enterprise email platform with AI-powered features",
+            "ai_agents": "Multi-agent orchestration system for task automation",
+            "microservices": "Scalable backend architecture with event sourcing",
+            "cloud_native": "Cloud-first application with auto-scaling"
+        }
+        
+        # Growth Trajectory
+        self.learning = [
+            "Advanced Distributed Systems Patterns",
+            "LLM Fine-tuning & RAG Optimization",
+            "Performance Engineering & Profiling",
+            "System Design for High Availability",
+            "Infrastructure as Code (Terraform, Pulumi)"
+        ]
+        
+        # Impact Metrics
+        self.stats = {
+            "experience": "5+ years",
+            "repositories": "50+",
+            "leetcode_solved": "1500+",
+            "open_source_contributions": "Active",
+            "streak": "450+ days"
+        }
+        
+        # Professional Values
+        self.values = {
+            "integrity": "Write honest code, ship honest software",
+            "excellence": "Good enough is never enough",
+            "curiosity": "Never stop asking 'what if?'",
+            "collaboration": "Great software is built by great teams"
+        }
+    
+    def get_current_focus(self):
+        """What I'm working on right now"""
+        return {
+            "building": "Scalable microservices with .NET & Spring Boot",
+            "designing": "AI-powered automation pipelines",
+            "learning": "Advanced system design patterns",
+            "contributing": "Open source developer tools"
+        }
+    
+    def get_engineering_approach(self):
+        """How I approach software engineering"""
+        return [
+            "1. Understand the problem deeply before writing code",
+            "2. Design architecture with scalability in mind",
+            "3. Write clean, testable, maintainable code",
+            "4. Monitor, measure, and optimize continuously",
+            "5. Document decisions for future engineers"
+        ]
+    
+    def get_why_work_with_me(self):
+        """Why someone should collaborate with me"""
+        return {
+            "reliability": "I deliver what I promise, on time, every time",
+            "quality": "My code is clean, tested, and production-ready",
+            "communication": "I explain complex systems simply",
+            "growth": "I elevate the teams I work with",
+            "passion": "I genuinely love building great software"
+        }
+    
+    def __repr__(self):
+        return f"DhirajWadile(role='{self.role}', focus='{self.domain}', location='{self.location}')"
 
-- 🌱 I’m currently learning **Full Stack Web Development and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dhiraj-Wadile/](https://github.com/Dhiraj-Wadile/)
+# Initialize the engineer
+dhiraj = DhirajWadile()
+print(dhiraj)
+```
 
-- 📫 How to reach me **dmwadile@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhiraj wadile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiraj wadile" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/classical_dmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="classical_dmw" height="30" width="40" /></a>
-<a href="https://instagram.com/dhiraj_wadile_55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhiraj_wadile_55" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhiraj_5530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="classical_dmw" height="30" width="40" /></a>
-</p>
+**Backend Engineer** who builds systems that scale. **AI Enthusiast** who creates intelligent solutions. **Full Stack Developer** who ships complete products.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+I work at the intersection of **distributed systems** and **artificial intelligence** — where engineering rigor meets product intuition. My code is clean, my architecture is deliberate, and my systems are built to last.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dhiraj-Wadile&theme=lightvoilet&no-frame=false&no-bg=false&margin-w=4)
+> *"I don't just write code. I solve engineering problems with precision, consider trade-offs deliberately, and ship software that stands the test of scale and time."*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiraj-wadile&show_icons=true&locale=en&layout=compact" alt="dhiraj-wadile" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhiraj-wadile&show_icons=true&locale=en" alt="dhiraj-wadile" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj-wadile&" alt="dhiraj-wadile" /></p>
+---
+
+<div align="center">
+
+### What I Currently Do
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### **Backend Engineering**
+- Designing scalable microservices with **.NET**, **Java**, **Spring Boot**
+- Building RESTful APIs and GraphQL endpoints
+- Implementing event-driven architectures with message queues
+- Database design and optimization with **MySQL**, **PostgreSQL**, **MongoDB**
+
+</td>
+<td width="50%" valign="top">
+
+#### **Frontend Development**
+- Building modern UIs with **Angular**, **Next.js**, **React**
+- Creating responsive, accessible interfaces
+- State management and performance optimization
+- Progressive Web Apps and server-side rendering
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### **AI & Machine Learning**
+- Developing **LLM-powered agents** and conversational AI
+- Building **RAG pipelines** for intelligent document retrieval
+- Multi-agent orchestration systems
+- **OpenAI API** and **LangChain** integration
+
+</td>
+<td width="50%" valign="top">
+
+#### **Cloud & DevOps**
+- Deploying **cloud-native** architectures on **AWS** & **Azure**
+- Containerization with **Docker** and orchestration with **Kubernetes**
+- CI/CD pipelines with **GitHub Actions** and **Jenkins**
+- Infrastructure as Code and monitoring
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+### What I'm Learning
+
+</div>
+
+<div align="center">
+
+```
+→ Distributed Systems Design — Event-driven architectures, CQRS, Saga patterns
+→ Advanced LLM Applications — RAG pipelines, multi-agent orchestration, fine-tuning
+→ Performance Engineering — Profiling, optimization, load testing, bottleneck analysis
+→ System Design — High availability, fault tolerance, CAP theorem, eventual consistency
+→ Cloud Architecture — Serverless computing, containers, infrastructure as code
+```
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Engineering Philosophy
+
+</div>
+
+<div align="center">
+
+> *"Software is not just about making things work. It's about making things right."*
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### **Build with Purpose**
+
+Every system I design starts with understanding the problem deeply. I ask **"why"** before **"how."** Architecture decisions are deliberate, not accidental. I don't follow trends — I follow engineering principles.
+
+</td>
+<td width="50%" valign="top">
+
+#### **Code with Clarity**
+
+Clean code is not optional — it's a professional responsibility. Readable, maintainable, well-tested code is the foundation of every system I build. I write code that my future self would thank me for.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### **Scale with Foresight**
+
+I design systems that anticipate growth. Performance, reliability, and observability are baked in from the start — not bolted on later. Every decision considers the next 10x.
+
+</td>
+<td width="50%" valign="top">
+
+#### **Learn Continuously**
+
+Technology evolves rapidly. I stay curious, experiment relentlessly, and continuously sharpen my engineering skills across multiple domains. The best engineers are perpetual students.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Tech Stack
+
+</div>
+
+<div align="center">
+
+#### Languages
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Backend
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=windows&logoColor=white)
+
+#### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### AI & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+#### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+#### Tools & Platforms
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Featured Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/Dhiraj-Wadile">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=vmail-app&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://github.com/Dhiraj-Wadile">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=ai-agent-platform&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/Dhiraj-Wadile">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=microservices-architecture&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://github.com/Dhiraj-Wadile">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=cloud-native-app&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/Dhiraj-Wadile">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=fullstack-ecommerce&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://github.com/Dhiraj-Wadile">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj-Wadile&repo=realtime-chat-app&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff" width="100%"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Dhiraj-Wadile?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### GitHub Analytics
+
+</div>
+
+<div align="center">
+
+#### Profile Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhiraj-Wadile&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj-Wadile&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9" />
+
+<br/>
+
+#### Top Languages
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj-Wadile&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_limit=8" />
+
+<br/>
+
+#### Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dhiraj-Wadile&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Contribution Graph
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj-Wadile&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Snake Animation
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dhiraj-Wadile/Dhiraj-Wadile/output/github-snake.svg" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Connect & Collaborate
+
+</div>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/dhiraj-wadile" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Dhiraj-Wadile" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://dhiraj-wadile.io" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:dmwadile@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Coding Platforms
+
+</div>
+
+<div align="center">
+
+<a href="https://leetcode.com/dhiraj_5530" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-1500%2B%20Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+<a href="https://www.hackerrank.com/" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-5%20Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+<a href="https://www.codechef.com/" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-3%20Star-2B67F6?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+<a href="https://auth.geeksforgeeks.org/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Expert-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+<a href="https://medium.com/" target="_blank">
+<img src="https://img.shields.io/badge/Medium-Technical%20Writer-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Achievements & Recognition
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### Problem Solving
+<img src="https://img.shields.io/badge/LeetCode-1500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<br/>
+<sub>Consistent Problem Solver</sub>
+<br/>
+<sub>450+ Days Streak</sub>
+
+</td>
+<td align="center" width="33%">
+
+#### Open Source
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+<br/>
+<sub>50+ Repositories</sub>
+<br/>
+<sub>Active Contributor</sub>
+
+</td>
+<td align="center" width="33%">
+
+#### Full Stack
+<img src="https://img.shields.io/badge/Full%20Stack-Engineer-0d1117?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<br/>
+<sub>End-to-End Builder</sub>
+<br/>
+<sub>5+ Years Experience</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Current Goals
+
+</div>
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│  1. Build and deploy a production-grade AI agent system                    │
+│     → Multi-agent orchestration with real-world task automation            │
+│                                                                            │
+│  2. Contribute to major open source projects                               │
+│     → .NET ecosystem, LangChain, and developer tools                       │
+│                                                                            │
+│  3. Master distributed systems architecture                                │
+│     → Event-driven, CQRS, saga patterns, eventual consistency              │
+│                                                                            │
+│  4. Write technical articles that help other engineers                     │
+│     → System design, backend patterns, AI applications                     │
+│                                                                            │
+│  5. Achieve 500+ LeetCode solutions with strong pattern recognition        │
+│     → Master all categories: Arrays, Trees, DP, Graphs, System Design      │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Fun Facts
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+| # | Fact |
+|:-:|:-----|
+| 1 | I debug best at 2 AM with strong coffee |
+| 2 | My IDE has never been in light mode |
+| 3 | I name branches like `fix-the-thing-i-broke-yesterday` |
+| 4 | Stack Overflow is my second home |
+
+</td>
+<td width="50%" valign="top">
+
+| # | Fact |
+|:-:|:-----|
+| 5 | I've read more documentation than novels |
+| 6 | I solve problems before writing code |
+| 7 | My git log reads like a thriller novel |
+| 8 | Console.log is my therapy |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Quote
+
+<br/>
+
+> *"First, solve the problem. Then, write the code."*
+> — **John Johnson**
+
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for Visiting!
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Dhiraj-Wadile&label=VISITORS&color=1f6feb&style=flat-square" alt="Visitor Count" />
+
+<br/>
+
+**Built with precision. Designed to impress.**
+
+<br/>
+
+*"The best code is no code at all. The second best is clean code."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:79c0ff&height=150&section=footer" width="100%"/>
+
+</div>
