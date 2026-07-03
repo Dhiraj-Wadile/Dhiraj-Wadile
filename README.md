@@ -213,11 +213,15 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhiraj-Wadile&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub followers](https://img.shields.io/github/followers/Dhiraj-Wadile?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Dhiraj-Wadile?label=Stars&style=social)
+![GitHub forks](https://img.shields.io/github/forks/Dhiraj-Wadile?label=Forks&style=social)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj-Wadile&layout=compact&theme=radical&hide_border=true&langs_limit=8)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj-Wadile&theme=radical&hide_border=true)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=blue)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=green)
+![GitHub languages](https://img.shields.io/github/languages/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=purple)
 
 </div>
 
@@ -233,7 +237,7 @@ With expertise in **backend engineering**, **distributed systems**, and **AI-pow
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj-Wadile&theme=redical&hide_border=true)
+![Contribution Graph](https://img.shields.io/github/contributions/Dhiraj-Wadile?style=for-the-badge&logo=github&logoColor=white&color=green)
 
 </div>
 
